@@ -1,7 +1,7 @@
 # Especificaciones de la Rosa Dorada (Gilded Rose)
 
 Bienvenido al equipo de **Gilded Rose**.
-Como quizá sabes, somos una pequeña posada ubicada estratégicamente en una prestigiosa ciudad, atendida por la amable **Allison**.
+Como quizá sabes, somos una pequeña posada ubicada estratégicamente en una prestigiosa ciudad, atendida por Mister **Fardello**.
 También compramos y vendemos mercadería de alta calidad.
 Por desgracia, nuestra mercadería va bajando de calidad a medida que se aproxima la fecha de venta.
 
